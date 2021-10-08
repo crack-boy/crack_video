@@ -1,6 +1,27 @@
-# crack_video
+# crack video
 
-a app by crack-boy
+这是一个专门破解收费视频app的项目   
+源代码里面公开了请求加密密钥以及使用dart解密代码和部分接口请求参数地址   
+
+已破解并公开：  
+草榴短视频App package:com.lidw.jugie  
+后续会陆续公开所有的密钥  
+
+已破解未公开：
+
+91短视频 package:com.user.ccnineonepros.android  
+91制片厂 package:com.mv.android  
+AvBobo package:com.eg.android.AlipayGphone.ace4a563f063c  
+汤头条 package:com.ss.android.atricle.one.news  
+快手成人版 package:com.iksvl  
+50度灰 package:com.tencent.mm.oneff  
+撸先生 package:com.sunrise  
+乐播 package:com.funly.fishly.lbly6  
+猫咪短视频 package:com.xmvideo.app  
+sex8视频 package:com.xmvideo.app  
+
+如有需求可联系提前获取
+
 
 ## Getting Started
 
